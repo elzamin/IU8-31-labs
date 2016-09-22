@@ -1,0 +1,4 @@
+C:/Users/acer-2/Desktop/build/CMakeFiles/phw.dir
+C:/Users/acer-2/Desktop/build/CMakeFiles/main.dir
+C:/Users/acer-2/Desktop/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/acer-2/Desktop/build/CMakeFiles/ZERO_CHECK.dir
