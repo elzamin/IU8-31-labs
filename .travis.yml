@@ -1,4 +1,4 @@
-language: generic
+language: generic 
 matrix:
   include:
     - os: linux
@@ -26,7 +26,7 @@ matrix:
     - os: osx
       compiler: clang-3.8
       env: COMPILER=clang++ -std=c++11
-      
+
 script:
   - cd lab1
   - mkdir build && cd build
