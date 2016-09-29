@@ -28,6 +28,5 @@ matrix:
       env: COMPILER=clang++ -std=c++11
 
 script:
-+  - cd lab-1
 +  - mkdir build && cd build
 +  - cmake .. && make
